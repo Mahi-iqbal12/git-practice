@@ -1,0 +1,3 @@
+my name is Mahira
+this is my first github assignment
+i am learning git and github!
